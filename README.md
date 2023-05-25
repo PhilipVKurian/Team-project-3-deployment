@@ -56,6 +56,9 @@ is saved on mongoDB Atlas which allows the fields to be populated on revist. The
 
 ![image](images/resumaker-welcome.png)
 
+
+![image](![image](https://github.com/PhilipVKurian/Team-project-3-deployment/assets/114792819/0114cbf8-9304-4ec5-a30b-19289d08de77)
+)
 ## Questions
 
 Philip V K
